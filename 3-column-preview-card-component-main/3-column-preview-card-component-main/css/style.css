@@ -1,0 +1,68 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.box
+ {
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-bottom: 30px;
+    padding:30px;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    
+    
+}
+
+h1{
+    text-align: center;
+    color: hsl(0, 0%, 95%);
+}
+
+.sedans {
+    background-color: hsl(31, 77%, 52%);
+    padding: 20px;
+    border-radius: 10px     0      0           10px;
+    color: hsla(0, 0%, 100%, 0.75);
+
+    
+}
+
+.suv {
+    background-color: hsl(184, 100%, 22%);
+    padding: 20px;
+    color: hsla(0, 0%, 100%, 0.75);
+    
+}
+
+.luxury {
+    background-color: hsl(179, 100%, 13%);
+    padding: 20px;
+    border-radius: 0     10px      10px           0;
+    color: hsla(0, 0%, 100%, 0.75);
+   
+}
+.button {
+  background-color:hsl(0, 0%, 95%);
+  color: black;
+  cursor: pointer;
+  margin-top: 30px;
+  border-radius: 40px;
+  height: 50px;
+  width: 130px;
+  text-decoration: none;
+  justify-content: center;
+  
+    
+}
+
+.button1{
+    border-color: hsl(31, 77%, 52%);
+}
+.button2 {
+    border-color:hsl(184, 100%, 22%);
+}
+
+.button3 {
+    border-color: hsl(179, 100%, 13%);
+}
